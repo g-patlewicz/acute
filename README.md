@@ -2,6 +2,8 @@ acute_oral
 ==============================
 
 Analysis evaluating the performance of selected expert systems for the prediction of acute oral toxicity in rodents.
+Associated publication:
+Nelms MN. Karmaus AL, Patlewicz G. An evaluation of the performance of selected (Q)SARs/expert systems for predicting acute oral toxicity. Computational Toxicology 2020, in press
 
 Project Organization
 ------------
