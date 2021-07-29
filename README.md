@@ -6,7 +6,7 @@ Associated publication:
 Nelms MN. Karmaus AL, Patlewicz G. An evaluation of the performance of selected (Q)SARs/expert systems for predicting acute oral toxicity. Computational Toxicology 2020, in press
 https://doi.org/10.1016/j.comtox.2020.100135
 
-Underlying data available at: ftp://newftp.epa.gov/Computational_Toxicology_Data/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-acutetox/
+Underlying data available at: https://gaftp.epa.gov/Comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/CompTox-acutetox/
 
 Project Organization
 ------------
